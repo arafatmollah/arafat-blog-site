@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Welcome Party!!",
+      "body": "Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network).[1] Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services. A more comprehensive list of tasks to which Web development commonly refers, may include Web engineering, Web design, Web content development, client liaison, client-side/server-side scripting, Web server and network security configuration, and e-commerce development.",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Hello Blog",
+      "body": "Cyber security is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. It's also known as information technology security or electronic information security. The term applies in a variety of contexts, from business to mobile computing, and can be divided into a few common categories.\n\n·         Network security is the practice of securing a computer network from intruders, whether targeted attackers or opportunistic malware.\n\n·         Application security focuses on keeping software and devices free of threats. A compromised application could provide access to the data its designed to protect. Successful security begins in the design stage, well before a program or device is deployed.",
+      "author": "Ahiyan",
+      "id": 2
+    }
+  ]
+}
